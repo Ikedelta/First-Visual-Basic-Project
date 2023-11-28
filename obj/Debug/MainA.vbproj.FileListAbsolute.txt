@@ -1,0 +1,16 @@
+C:\Users\a\Documents\programming\MainA\bin\Debug\MainA.exe.config
+C:\Users\a\Documents\programming\MainA\bin\Debug\MainA.exe
+C:\Users\a\Documents\programming\MainA\bin\Debug\MainA.pdb
+C:\Users\a\Documents\programming\MainA\bin\Debug\MainA.xml
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.vbproj.AssemblyReference.cache
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.Resources.resources
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.vbproj.GenerateResource.cache
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.vbproj.CoreCompileInputs.cache
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.exe
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.xml
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.pdb
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.FrmMembershipCal.resources
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.FrmVehicleLoanCalculator.resources
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.frmLogin.resources
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.Form3.resources
+C:\Users\a\Documents\programming\MainA\obj\Debug\MainA.frmHome.resources
